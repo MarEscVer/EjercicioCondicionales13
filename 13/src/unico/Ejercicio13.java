@@ -7,6 +7,8 @@ public class Ejercicio13 {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
 
+//		Realiza un programa que diga si un número introducido por teclado es par y/o divisible entre 5.
+		
 		final int nPar = 2;
 		final int nDiv = 5;
 		
